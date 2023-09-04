@@ -5,17 +5,17 @@
 
 }
 
-**For Tablet**
+**For Tablet**<br>
 @media only screen and (max-width: 767px){
 
 }
 
-**For Laptop**
+**For Laptop**<br>
 @media only screen and (max-width: 1024px){
 
 }
 
-**For Desktop**
+**For Desktop**<br>
 @media only screen and (max-width: 1200px){
 
 }
