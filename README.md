@@ -1,6 +1,6 @@
 # Media-Queries
 
-**For Mobile** <br>
+/***For Mobile***/ <br>
 @media only screen and (max-width: 480px){
 
 }
